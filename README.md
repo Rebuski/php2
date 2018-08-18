@@ -1,2 +1,7 @@
-# php2
-Primeiro teste
+<?php
+
+
+echo "Primeiro teste";
+
+
+?>
